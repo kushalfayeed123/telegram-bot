@@ -2,3 +2,5 @@ telethon
 yfinance
 pandas
 Flask
+technical_analysis
+telegram_bot
