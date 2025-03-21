@@ -2,4 +2,4 @@ telethon
 yfinance
 pandas
 Flask
-technical_analysis
+pandas_ta
